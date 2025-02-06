@@ -1,6 +1,6 @@
 # Project Web Scapping and sent Gmail to someone.
 
-# Update 03/01/25 : Can be checked in real time.
+# Update 03/01/25: Can be checked in real time.
 
 Using
 
