@@ -1,8 +1,8 @@
 # Project Web Scapping and sent Gmail to someone.
 
-# Just mini Project can't use in real time check.
+# Update 03/01/25 : Can be checked in real time.
 
-using
+Using
 
 import requests
 
@@ -12,4 +12,8 @@ import smtplib
 
 import os
 
+import time
+
 from dotenv import load_dotenv
+
+from datetime import datetime
